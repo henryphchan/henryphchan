@@ -1,11 +1,11 @@
 ### Hi there, I'm Henry 👋
 - 🏫 BSc Computer Science | MSc(ECom&IComp)
 - 🔥 I'm interest in eCommerce, Digital Marketing and Data Analytics Projects
-- 🌱 I’m currently learning Blockchain
+- 🌱 I’m currently learning Blockchain and React
 
 ### Skills
-- PHP Laravel
-- Vanilla js
+- PHP/Laravel
+- Vanilla JS
 - Python
 - SQL
 
