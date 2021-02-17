@@ -11,7 +11,7 @@
 
 ### How to reach me:
 LinkedIn [@henry-chan-ph](https://www.linkedin.com/in/henry-chan-ph/) <br>
-Medium [@henryphchan](https://medium.com/@henryphchan)<br>
+Medium [@henryphchan](https://henryphchan.medium.com/)<br>
 Buy Me a Coffee [@henryphchan](https://www.buymeacoffee.com/henryphchan)
 
 <!--
