@@ -1,17 +1,18 @@
 ### Hi there, I'm Henry 👋
 - 🏫 BSc Computer Science | MSc(ECom&IComp)
 - 🔥 I'm interest in eCommerce, Digital Marketing and Data Analytics Projects
-- 🌱 I’m currently learning Blockchain and React
+- 🌱 I’m currently learning React
 
 ### Skills
-- PHP/Laravel
-- Vanilla JS
 - Python
+- PHP (Laravel)
+- Vanilla JS
 - SQL
+- Oracle & PL/SQL
+- Linux/Unix
 
 ### How to reach me:
-LinkedIn [@henry-chan-ph](https://www.linkedin.com/in/henry-chan-ph/) <br>
-Medium [@henryphchan](https://henryphchan.medium.com/)<br>
+LinkedIn [@henry-ph-chan](https://www.linkedin.com/in/henry-ph-chan/) <br>
 Buy Me a Coffee [@henryphchan](https://www.buymeacoffee.com/henryphchan)
 
 <!--
