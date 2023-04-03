@@ -1,15 +1,16 @@
 ### Hi there, I'm Henry 👋
 - 🏫 BSc Computer Science | MSc(ECom&IComp)
 - 🔥 I'm interest in eCommerce, Digital Marketing and Data Analytics Projects
-- 🌱 I’m currently learning React
+- 🌱 I’m getting start on UI/UX Design and front-end development 
 
 ### Skills
 - Python
 - PHP (Laravel)
 - Vanilla JS
-- SQL
+- MS SQL & T-SQL
 - Oracle & PL/SQL
 - Linux/Unix
+- Azure
 
 ### How to reach me:
 LinkedIn [@henry-ph-chan](https://www.linkedin.com/in/henry-ph-chan/) <br>
