@@ -1,14 +1,12 @@
 ### Hi there, I'm Henry 👋
-- 🏫 BSc Computer Science | MSc(ECom&IComp)
+- 🏫 BSc Computer Science | MSc Electronic Commerce & Internet Computing
 - 🔥 I'm interest in eCommerce, Digital Marketing and Data Analytics Projects
 - 🌱 I’m getting start on UI/UX Design and front-end development 
 
 ### Skills
 - Python
-- PHP (Laravel)
-- Vanilla JS
-- MS SQL & T-SQL
-- Oracle & PL/SQL
+- PHP, Vanilla JS
+- MS SQL & Oracle Database
 - Linux/Unix
 - Azure
 
