@@ -13,7 +13,7 @@
 ### How to reach me:
 LinkedIn [@henry-ph-chan](https://www.linkedin.com/in/henry-ph-chan/) <br>
 Buy Me a Coffee [@henryphchan](https://www.buymeacoffee.com/henryphchan) <br>
-Web https://www.smallapp.dev/
+Web https://henrychan.tech/
 
 <!--
 **henryphchan/henryphchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
